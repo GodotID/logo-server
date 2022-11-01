@@ -1,0 +1,23 @@
+{
+  "name": "logo-server",
+  "version": "0.1.0",
+  "description": "Godot Indonesia community logo generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodotID/logo-server.git"
+  },
+  "author": "Hanz <hanz@godot.id>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/GodotID/logo-server/issues"
+  },
+  "homepage": "https://github.com/GodotID/logo-server#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fast-xml-parser": "^4.0.11"
+  }
+}

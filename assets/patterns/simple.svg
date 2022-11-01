@@ -1,0 +1,17 @@
+<!--
+	There must be a <pattern> element with id="headptrn", it will be th head's pattern.
+
+	You must specify at least patternUnits="", width="", and height="" attributes.
+	The rest is yours.
+-->
+<pattern id="headptrn" patternUnits="userSpaceOnUse" width="32" height="32">
+	<rect width="32" height="32" fill="#ff0000" />
+</pattern>
+
+<!-- You can add multiple patterns, just remember to have headptrn -->
+<pattern id="mouthptrn" patternUnits="userSpaceOnUse" width="32" height="32">
+	<rect width="32" height="32" fill="#ffffff00" />
+</pattern>
+<pattern id="lowerheadptrn" patternUnits="userSpaceOnUse" width="32" height="32">
+	<rect width="32" height="32" fill="#fff" />
+</pattern>
