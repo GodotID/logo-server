@@ -13,5 +13,5 @@ jobs:
       - uses: BogDAAAMN/deta-deploy-action@v1.0.1
         with:
           deta-access-token: ${{ secrets.DETA_TOKEN }}
-          deta-name: 'event'
+          deta-name: 'logo-server'
           deta-project: 'GodotID'
